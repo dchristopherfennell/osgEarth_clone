@@ -1,0 +1,2 @@
+osgEarth_clone
+==============
